@@ -1,0 +1,14 @@
+body { margin: 20px; }
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
